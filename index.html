@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Digital Time Capsule</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>🕒 Digital Time Capsule</h1>
+
+    <div class="capsule-form">
+      <textarea id="message" placeholder="Write your message to the future..."></textarea>
+      <input type="datetime-local" id="unlockDateTime">
+      <button id="saveBtn">Save Message</button>
+    </div>
+
+    <hr>
+
+    <h2>💌 Unlocked Messages</h2>
+    <div id="messages"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
