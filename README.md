@@ -3,6 +3,7 @@ A lightweight Digital Time Capsule web app using HTML, CSS, and JavaScript.
 This project allows users to write messages, add media links, and set a future date to "open" their capsule.
 
 🚀 Features
+
 Write messages for your future self
 
 Store key memories or notes in localStorage
@@ -14,6 +15,7 @@ A countdown timer shows when the capsule can be opened
 Simple, responsive design using plain CSS
 
 🧠 How It Works
+
 The user writes a note or message in the text box.
 
 Select a future date to "lock" the message.
