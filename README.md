@@ -1,6 +1,7 @@
 # Digital-Time-Capsule
 A lightweight Digital Time Capsule web app using HTML, CSS, and JavaScript.
 This project allows users to write messages, add media links, and set a future date to "open" their capsule.
+
 🚀 Features
 Write messages for your future self
 
